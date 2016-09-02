@@ -16,7 +16,7 @@ tagline:             'smiles'
 description:         'place to smile'
 url:                 https://nfocast.github.io/mickey
 rss:                 rss feed url
-baseurl:             '/mickey'
+baseurl:             'mickey'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
