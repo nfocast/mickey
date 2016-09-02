@@ -14,7 +14,7 @@ name:				         NfoCast
 title:               NfoCast
 tagline:             'smiles'
 description:         'place to smile'
-url:                 http://nfocast.github.io/mickey
+url:                 https://nfocast.github.io/mickey
 rss:                 rss feed url
 baseurl:             '/mickey'
 baseurl_posts_img:   '/assets/images/posts/'
