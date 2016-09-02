@@ -10,10 +10,10 @@ relative_permalinks: true
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
-tagline:             'tagline'
-description:         'description'
+name:				         NfoCast
+title:               NfoCast
+tagline:             'smiles'
+description:         'place to smile'
 url:                 site url
 rss:                 rss feed url
 baseurl:             '/mickey'
